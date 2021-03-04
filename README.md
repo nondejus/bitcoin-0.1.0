@@ -1,3 +1,16 @@
 # bitcoin-0.1.0
 
+SHA256:
+8b17eb9a5707f2519defda4cdf8d14fa1b8dee630e11e6ef85ff9f5547555b56  bitcoin-0.1.0.rar
+ce9da46516e3042741224a7f9061e3181a5a4d17abba72b6e82922af3753d756  bitcoin-0.1.0.tgz
+
+SHA1:
+ec9ed4ccbc990eceb922ff0c4d71d1ad466990dd  bitcoin-0.1.0.rar
+35f83eaa334e0e447ceea77a7cc955a4ccdd1a1d  bitcoin-0.1.0.tgz
+
+MD5:
+91e2dfa2af043eabbb38964cbf368500  bitcoin-0.1.0.rar
+dca1095f053a0c2dc90b19c92bd1ec00  bitcoin-0.1.0.tgz
+
+
 https://bitcointalk.org/index.php?topic=68121.10;wap2/
